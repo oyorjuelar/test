@@ -16,7 +16,7 @@ public class Test {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        sytem.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
     }
     
 }
